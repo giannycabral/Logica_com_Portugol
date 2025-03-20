@@ -1,6 +1,7 @@
 programa
 {
-	/*Explicação:
+	/*
+Explicação:
 1. *Declaração de variáveis*: O programa utiliza variáveis para armazenar os valores inseridos, as taxas, e os resultados dos cálculos.
 2. *Entrada de dados*: O usuário insere o valor inicial, a taxa de juros e a taxa de desconto.
 3. *Cálculos matemáticos*: Os juros e descontos são calculados utilizando fórmulas simples baseadas em porcentagens.
