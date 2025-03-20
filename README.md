@@ -1,4 +1,4 @@
-# 📂 Projetos em Portugol
+# 📂 Lógica com Portugol
 
 Bem-vindo(a) ao meu repositório! Aqui estão armazenados meus projetos criados com a linguagem *Portugol*, explorando conceitos de lógica de programação.
 
