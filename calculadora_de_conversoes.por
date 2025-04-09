@@ -1,6 +1,7 @@
 programa
 {
-	/*  Estrutura de Loop (faca... enquanto): O programa agora roda dentro de um loop faca... enquanto, que só será interrompido quando a opção 3 for escolhida.
+	
+/*  Estrutura de Loop (faca... enquanto): O programa agora roda dentro de um loop faca... enquanto, que só será interrompido quando a opção 3 for escolhida.
 	Ou seja, o usuário pode continuar fazendo conversões até que escolha sair.
 
       Condição de Saída: O programa agora só sai do loop quando o usuário escolhe a opção 3 (Sair). 
